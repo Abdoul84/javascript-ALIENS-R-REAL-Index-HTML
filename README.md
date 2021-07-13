@@ -1,7 +1,5 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-![Images/nasa.jpg](Images/nasa.jpg)
-
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -13,6 +11,7 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found!
 
 ## Your Task
+![Images/nasa.jpg](Images/nasa.jpg)
 
 ### Before You Begin
 
